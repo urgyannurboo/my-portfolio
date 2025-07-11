@@ -3,7 +3,7 @@
 </div>
   
 # <p align="center">👋 Urgyan Nurboo Portfolio Website</p>
-### <p align="center"> Hosted @ <a href="https://urgyannurboo.me">urgyannurboo.me</a>, built with React and CSS </p>
+### <p align="center"> Hosted @ <a href="https://urgyannurbooportfolio.netlify.app/">urgyannurboo.me</a>, built with React and CSS </p>
 
 <br />
 
